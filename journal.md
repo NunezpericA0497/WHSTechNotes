@@ -17,3 +17,4 @@ In the future, advancements in computer science and technology could further imp
 The emergence of AI-driven drug discovery, researchers have been using Algorithms to analyze vast amounts of biological data to identify potential new drugs much faster than traditional methods. One example is the AI system developed by deepmind, called Alphafold, which has made significant strides in predicting protein structures.
 # December 9, 2024
 The term "brain rot" refers to the negative impact of excessive digital consumption on our mental well-being and intellectual capacity, it suggests that spending too much time online, particularly on platforms filled with trival content, can lead to a decline in our cognitive abilities and a loss of focus on meaningful pursuits.
+# January 8, 2025
