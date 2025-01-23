@@ -19,3 +19,7 @@ The emergence of AI-driven drug discovery, researchers have been using Algorithm
 The term "brain rot" refers to the negative impact of excessive digital consumption on our mental well-being and intellectual capacity, it suggests that spending too much time online, particularly on platforms filled with trival content, can lead to a decline in our cognitive abilities and a loss of focus on meaningful pursuits.
 # January 8, 2025
 I liked doing the coding games in this class, the coding games are very simple to do. I want this semester to bring back snack rewards. 
+# January 13, 2025
+The tech industry is shifting towards prioritizing artificial intelligence (AI) skills over traditional tech roles, creating a rapidly changing job market that requires workers to adapt by learning new skills and leveraging AI tools for enhanced opportunities.
+# January 22, 2025
+The agenda discusses the implications of a potential TikTok ban in the U.S< on technology, security, and privacy. The U.S. Government wants to ban TiKTok because the app was stealing our data, china or japan was running tiktok. i personally want to keep tiktok because its entertaining but i understand the situations.
